@@ -139,6 +139,8 @@ Screenshots are included in the "screenshots/" folder:
 <img width="933" height="330" alt="image" src="https://github.com/user-attachments/assets/8e59e033-36ad-49cd-af05-c5eae4c0cf31" />
 
 
+frontend output:
+<img width="512" height="341" alt="image" src="https://github.com/user-attachments/assets/22ebb75a-c832-46dc-8d32-0658bce39863" />
 
 
 
