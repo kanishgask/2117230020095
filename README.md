@@ -130,6 +130,17 @@ Authorization: Bearer <ACCESS_TOKEN>
 📸 Screenshots
 
 Screenshots are included in the "screenshots/" folder:
+<img width="1024" height="323" alt="image" src="https://github.com/user-attachments/assets/2d268f24-25de-4d63-bcff-df5865eec0b6" />
+
+<img width="1024" height="323" alt="image" src="https://github.com/user-attachments/assets/800e3675-3570-4cf8-8a04-7697ee195d99" />
+<img width="933" height="330" alt="image" src="https://github.com/user-attachments/assets/20ba559c-84c9-40e6-a088-51c4e05f894b" />
+
+<img width="1069" height="322" alt="image" src="https://github.com/user-attachments/assets/f3e3bf6f-c516-4262-b344-b5df49d0c67d" />
+<img width="933" height="330" alt="image" src="https://github.com/user-attachments/assets/8e59e033-36ad-49cd-af05-c5eae4c0cf31" />
+
+
+
+
 
 - Backend running
 - All Notifications page
